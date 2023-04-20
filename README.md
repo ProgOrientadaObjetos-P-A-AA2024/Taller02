@@ -5,21 +5,21 @@
 ## Problema 1
 
 * Representar en un diagrama una clase con la siguiente problemática:
-	* Entidad o Sustantivo: Trabajador
+	* Entidad o Sustantivo: Administrativo
 	* Atributos, características: 
 	 	* nombres, 
 	 	* apellidos, 
 	 	* sueldo
-	 	* dni
+	 	* pasaporte
 	* Comportamientos, métodos: 
 		* establecerNombres
 		* establecerApellidos
 		* establecerSueldo
-		* establecerDni
+		* establecerPasaporte
 		* obtenerNombres
 		* obtenerApellidos
 		* obtenerSueldo
-		* obtenerDni
+		* obtenerPasaporte
 
 ### Considerar:
 - Considerar: los datos deben ser públicos y los métodos públicos
@@ -27,21 +27,21 @@
 
 ## Problema 2
 * Representar en un diagrama una clase con la siguiente problemática:
-	* Entidad o Sustantivo: Trabajador
+	* Entidad o Sustantivo: Administrativo
 	* Atributos, características: 
 	 	* nombres, 
 	 	* apellidos, 
 	 	* sueldo
-	 	* dni
+	 	* pasaporte
 	* Comportamientos, métodos: 
 		* establecerNombres
 		* establecerApellidos
 		* establecerSueldo
-		* establecerDni
+		* establecerPasaporte
 		* obtenerNombres
 		* obtenerApellidos
 		* obtenerSueldo
-		* obtenerDni
+		* obtenerPasaporte
 		
 Agregar una coleeción de 4 objetos.
 ### Considerar:
@@ -50,7 +50,7 @@ Agregar una coleeción de 4 objetos.
 
 ## Problema 3
 
-* Se necesita representar mediante un diagrama de clase y objetos (4), una entidad que permite administrar Instituciones Educativas de Primaria. Cada institución tienen como características: nombre, tipo de institución, número de alumnos, número de docentes, número de aulas.
+* Se necesita representar mediante un diagrama de clase y objetos (4), una entidad que permite administrar Colegios. Cada institución tienen como características: nombre, tipo de institución, número de alumnos, número de docentes, número de aulas.
 Se debe relacionar la clase con las objetos. 
 ### Considerar:
 - Los datos deben ser privados y los métodos públicos
