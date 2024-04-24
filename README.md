@@ -43,7 +43,7 @@
 		* obtenerSueldo
 		* obtenerPasaporte
 		
-Agregar una coleeción de 4 objetos.
+Agregar una colección de 4 objetos.
 ### Considerar:
 - Los datos deben ser públicos y los métodos privados
 - Agregar en la carpeta respectiva el archivo DIAUML y la imagen exportada
